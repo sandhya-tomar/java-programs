@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecisionMakingConstruct/DecisionMakingConstruct.iml" filepath="$PROJECT_DIR$/DecisionMakingConstruct/DecisionMakingConstruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternPrinting/PatternPrinting.iml" filepath="$PROJECT_DIR$/PatternPrinting/PatternPrinting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two-D Array/Two-D Array.iml" filepath="$PROJECT_DIR$/Two-D Array/Two-D Array.iml" />
+    </modules>
+  </component>
+</project>
