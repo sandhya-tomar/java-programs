@@ -1,2 +1,13 @@
-# java-programs
-Practice programs in Java covering fundamental topics like variables, loops, strings, and arrays.
+# Java Programs
+
+This repository contains basic Java programs for beginners. It includes examples that demonstrate:
+
+- Variables and data types
+- Conditional statements and loops
+- Array operations
+- 2-D Array
+- String manipulation
+
+
+
+
